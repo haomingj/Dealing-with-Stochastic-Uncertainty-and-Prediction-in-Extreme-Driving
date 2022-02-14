@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Dealing with Stochastic Uncertainty and Prediction
+  in Extreme Driving
+message: Extended Version
+type: dataset
+authors:
+  - given-names: Siddharth
+    family-names: Gangadhar
+    email: sgangadh@andrew.cmu.edu
+    affiliation: Carnegie Mellon University
+  - given-names: Zhuoyuan
+    family-names: Wang
+    email: zhuoyuaw@andrew.cmu.edu
+    affiliation: Carnegie Mellon University
+  - given-names: Haoming
+    family-names: Jing
+    email: haomingj@andrew.cmu.edu
+    affiliation: Carnegie Mellon University
+  - given-names: Yorie
+    family-names: Nakahira
+    email: ynakahir@andrew.cmu.edu
+    affiliation: Carnegie Mellon University
